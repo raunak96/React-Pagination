@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/React-Pagination/static/css/main.050523cc.chunk.css",
-    "main.js": "/React-Pagination/static/js/main.5dd7eada.chunk.js",
-    "main.js.map": "/React-Pagination/static/js/main.5dd7eada.chunk.js.map",
+    "main.js": "/React-Pagination/static/js/main.ebfe57ee.chunk.js",
+    "main.js.map": "/React-Pagination/static/js/main.ebfe57ee.chunk.js.map",
     "runtime-main.js": "/React-Pagination/static/js/runtime-main.81143f2b.js",
     "runtime-main.js.map": "/React-Pagination/static/js/runtime-main.81143f2b.js.map",
     "static/js/2.ebdbdb23.chunk.js": "/React-Pagination/static/js/2.ebdbdb23.chunk.js",
     "static/js/2.ebdbdb23.chunk.js.map": "/React-Pagination/static/js/2.ebdbdb23.chunk.js.map",
     "index.html": "/React-Pagination/index.html",
-    "precache-manifest.52f266d8e125443f591dbd1bd9064dc9.js": "/React-Pagination/precache-manifest.52f266d8e125443f591dbd1bd9064dc9.js",
+    "precache-manifest.ba779a0a98d21c0483b6d9e83ed3b039.js": "/React-Pagination/precache-manifest.ba779a0a98d21c0483b6d9e83ed3b039.js",
     "service-worker.js": "/React-Pagination/service-worker.js",
     "static/css/main.050523cc.chunk.css.map": "/React-Pagination/static/css/main.050523cc.chunk.css.map",
     "static/js/2.ebdbdb23.chunk.js.LICENSE.txt": "/React-Pagination/static/js/2.ebdbdb23.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.81143f2b.js",
     "static/js/2.ebdbdb23.chunk.js",
     "static/css/main.050523cc.chunk.css",
-    "static/js/main.5dd7eada.chunk.js"
+    "static/js/main.ebfe57ee.chunk.js"
   ]
 }
