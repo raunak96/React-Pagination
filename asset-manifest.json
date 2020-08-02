@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/React-Pagination/static/css/main.050523cc.chunk.css",
+    "main.js": "/github.io/React-Pagination/static/js/main.e4ba19ca.chunk.js",
+    "main.js.map": "/github.io/React-Pagination/static/js/main.e4ba19ca.chunk.js.map",
+    "runtime-main.js": "/github.io/React-Pagination/static/js/runtime-main.dacc7291.js",
+    "runtime-main.js.map": "/github.io/React-Pagination/static/js/runtime-main.dacc7291.js.map",
+    "static/js/2.ebdbdb23.chunk.js": "/github.io/React-Pagination/static/js/2.ebdbdb23.chunk.js",
+    "static/js/2.ebdbdb23.chunk.js.map": "/github.io/React-Pagination/static/js/2.ebdbdb23.chunk.js.map",
+    "index.html": "/github.io/React-Pagination/index.html",
+    "precache-manifest.8610d0ed4bfa39a89c680e42abc140b9.js": "/github.io/React-Pagination/precache-manifest.8610d0ed4bfa39a89c680e42abc140b9.js",
+    "service-worker.js": "/github.io/React-Pagination/service-worker.js",
+    "static/css/main.050523cc.chunk.css.map": "/github.io/React-Pagination/static/css/main.050523cc.chunk.css.map",
+    "static/js/2.ebdbdb23.chunk.js.LICENSE.txt": "/github.io/React-Pagination/static/js/2.ebdbdb23.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dacc7291.js",
+    "static/js/2.ebdbdb23.chunk.js",
+    "static/css/main.050523cc.chunk.css",
+    "static/js/main.e4ba19ca.chunk.js"
+  ]
+}
