@@ -2,7 +2,7 @@
   "name": "pagination",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://raunak96/github.io/React-Pagination",
+  "homepage": "https://raunak96.github.io/React-Pagination",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
