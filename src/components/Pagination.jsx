@@ -10,7 +10,7 @@ const Pagination = ({postsPerPage,totalPosts,handleClick,currentPage}) => {
                 {
                     Pages.map(page=>(
                         <li key={page} className={`${page === currentPage?'active':''} page-item`}>
-                            <a href="!#" className="page-link" onClick={()=>handleClick(page)}>{page}</a>
+                            <a href="!#" className="page-link" onClick={(e)=>{e.preventDefault();handleClick(page)}}>{page}</a>
                         </li>
                     ))
                 }
